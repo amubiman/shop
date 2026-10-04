@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-spiritualMaroon: #4A0E17;
+  --color-spiritualGold: #D4AF37;
+  --color-spiritualCream: #FCFBF7;
+}
